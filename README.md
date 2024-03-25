@@ -26,7 +26,7 @@ To look directly at the results click [*here*](https://indianinstituteofscience-
 
 6) For object detection and tracking using yolov8 run track_yolov8.py. Can change between the pretained model and the custom alabama model
    
-7) For running object detection and tracking with YOLOv8+SAHI+OCSORT tracking algorithm run trackOC.py.[*result for pretained model*](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/adityaarvind_iisc_ac_in/EbE8tTguNzRMrq4tXkmjX1kBiEcV_HY3qPArUyhwYkTeBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=i6C7F0)
+7) For running object detection and tracking with YOLOv8+SAHI+OCSORT tracking algorithm run trackOC.py. [(*result for pretained model*)](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/adityaarvind_iisc_ac_in/EbE8tTguNzRMrq4tXkmjX1kBiEcV_HY3qPArUyhwYkTeBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=i6C7F0)
 
 8) Run data_cleaning.py to make the number of frames and the readings equal. It also drops the empty columns and columns with only one unique value. Some reults related to it can be found in *crash.ipynb*
 
