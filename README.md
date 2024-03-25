@@ -7,7 +7,9 @@ To look at the results you can click [*here*](https://indianinstituteofscience-m
 To install SPIGA and the L2CS net look at the following repositories<br>
 1) [**SPIGA**](https://github.com/andresprados/SPIGA) <br>
 In case of pickle error for SPIGA download the spiga model from the [drive](https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/adityaarvind_iisc_ac_in/EixqFFFo0kBGlnpzkpn6Y-cBKI5rBXsKPe-XWgMPVJIvfg?e=Zodhb2) and put it in the directory *spiga/models/weights*
+
 2) [**L2CS**](https://github.com/Ahmednull/L2CS-Net) Go to the repository and follow the installation instructions
+   
 3) Run pip install -r requirements.txt
 
 # How to Get results:
