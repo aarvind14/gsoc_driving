@@ -9,7 +9,7 @@ To look at the results you can click [*here*](https://indianinstituteofscience-m
 ## Risky driving behaviour
 1) Risky driving behaviour can be checked by how long is the driver not paying attention straight ahead and is looking somewhere else. Head pose estimation was used to get the pitch, yaw and roll values of the driver and then K-Means clustering was applied and the frames were divided into 4 clusters.Largest cluster is for the correct driving behaviour. The videos for the clusters can be found in head_pose_cluster.
 2) After clustering the frames 4 csv files were created which contain the startpoint,endpoint and the duration for which the driver was in that pose. Just like with drowsiness if the eyes of the driver are away from the road for a prolonged period of time. It can be classified as dangerous behaviour. Results can be found dataframe_cluster folder.
-3) Can also be used as a measure for how attentiveness for the driver
+3) Can also be used as a measure the attentiveness for the driver
 
 ## Annotation of Objects of interest
 1) Firstly the pretarined YOLOv8 model with SAHI was used to test the video in objectDetectionSAHI.py. Then OCSort tracking was used alongwith YOLOv8_SAHI to effectively track the objects of interest. The results can be found [*here*](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/adityaarvind_iisc_ac_in/EbE8tTguNzRMrq4tXkmjX1kBiEcV_HY3qPArUyhwYkTeBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OsF2cO)
