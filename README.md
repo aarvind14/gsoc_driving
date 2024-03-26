@@ -30,6 +30,8 @@ To look directly at the results click [*here*](https://indianinstituteofscience-
 
 8) Run data_cleaning.py to make the number of frames and the readings equal. It also drops the empty columns and columns with only one unique value. Some reults related to it can be found in *crash.ipynb*
 
+9) Run gaze.py inside the GAZE_detection folder to get a dataframe of the gaze of the driver at every timestep. Result can be found [*here*](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/adityaarvind_iisc_ac_in/EQjio4EcFWtNpeXZKAlovLYBy9SocVHh9lupRgYYGMwkDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mkWJmz)
+
    
 
 
